@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "name": "year",
+      "importance": 0.4179
+    },
+    {
+      "name": "brand",
+      "importance": 0.3909
+    },
+    {
+      "name": "engineSize",
+      "importance": 0.158
+    },
+    {
+      "name": "mileage",
+      "importance": 0.0126
+    },
+    {
+      "name": "mpg",
+      "importance": 0.0075
+    },
+    {
+      "name": "model",
+      "importance": 0.005
+    },
+    {
+      "name": "transmission",
+      "importance": 0.0035
+    },
+    {
+      "name": "tax",
+      "importance": 0.0024
+    },
+    {
+      "name": "fuelType",
+      "importance": 0.0021
+    }
+  ],
+  "r2_score": 0.9687,
+  "mae": 1082.64,
+  "rmse": 1358.0
+}
